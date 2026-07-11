@@ -1,0 +1,6 @@
+{
+  "name": "النسور لقطع الغيار",
+  "description": "نظام النسور السحابي المتزامن لإدارة والبحث عن قطع غيار السيارات",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
